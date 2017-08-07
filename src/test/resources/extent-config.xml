@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Deal Vector Report - v1.0.0</documentTitle>
+        <reportName>Deal Vector API Reports</reportName>
+        <reportHeadline> - v1.0.0</reportHeadline>
+    </configuration>
+</extentreports>
